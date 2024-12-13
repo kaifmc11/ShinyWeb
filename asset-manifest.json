@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ShinyWeb/static/css/main.5ae8d042.css",
+    "main.js": "/ShinyWeb/static/js/main.25e7d22f.js",
+    "static/media/CleaningHelp.jpg": "/ShinyWeb/static/media/CleaningHelp.7b0b8781c516d7776275.jpg",
+    "static/media/Blog2.jpg": "/ShinyWeb/static/media/Blog2.028102ff3847e219660e.jpg",
+    "static/media/CleanBg.jpg": "/ShinyWeb/static/media/CleanBg.83b7f6bbc9306aad9a00.jpg",
+    "static/media/cleaning.avif": "/ShinyWeb/static/media/cleaning.2850e4e1d049664e968a.avif",
+    "static/media/logo.png": "/ShinyWeb/static/media/logo.c4e1155d5b55d4f123e0.png",
+    "index.html": "/ShinyWeb/index.html",
+    "main.5ae8d042.css.map": "/ShinyWeb/static/css/main.5ae8d042.css.map",
+    "main.25e7d22f.js.map": "/ShinyWeb/static/js/main.25e7d22f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae8d042.css",
+    "static/js/main.25e7d22f.js"
+  ]
+}
